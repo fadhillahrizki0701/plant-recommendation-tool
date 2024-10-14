@@ -26,3 +26,4 @@
       - [ ] no
   - Sources:
     - https://medium.com/@lohit-behera/integrating-django-with-vite-react-a346f829045d
+    - https://www.geeksforgeeks.org/how-to-connect-django-with-reactjs/
